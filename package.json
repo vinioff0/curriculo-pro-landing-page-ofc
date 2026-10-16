@@ -1,0 +1,6 @@
+{
+  "name": "curriculo-pro-landing-page",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
